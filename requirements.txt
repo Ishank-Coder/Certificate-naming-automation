@@ -1,0 +1,4 @@
+python
+pillow
+pandas
+os
